@@ -8,19 +8,36 @@
 
 <br>
 
-## Education & Experience (학력 및 경력)
+## EXPERIENCE
+홀 매니저와 영업을 하며 인과분석이라는 연구를 접했고
+복학과 석사과정을 거치며 연구자의 길을 시작했습니다.(물론 인과분석은 아직 시작도 못했습니다.)
 
-- **전북대학교 의생명연구원 신경과 Vestibular Lab** | Researcher (2026.06 - 현재)
-  - 환자 임상 데이터를 활용한 통계 분석 및 딥러닝 모델 개발
-- **전북대학교 대학원 통계학과** | 석사과정 (2024.09 - 2026.08)
-- **전북대학교 통계학과 / 금융경제정보학** | 학사 (2017.03 - 2024.02)
+### 전북대학교병원 의생명연구원 신경과 Vestibular Lab
+- Researcher (2026.06 - 현재)
+- 보행분석을 통한 전정기능장애 예측 및 진단 보조 딥러닝 모델 연구
+- 환자 안구 운동 영상 및 신호 데이터를 활용한 전정기능장애 진단 보조 모델링 연구
+- 전정기능장애 관련 바이오마커 발굴 및 딥러닝 모델 연구
+
+## EDUCATION
+
+### 전북대학교 대학원 통계학과 
+- 석사과정 (2024.09 - 2026.08)
+### 전북대학교 통계학과 / 금융경제정보학 
+- 학사 (2017.03 - 2024.02)
 
 <br>
 
-## Publications & Presentations (학술 성과)
+## PUBLICATION
+아직은 미약하고 볼품 없습니다. 연구 자체가 너무 행복하고 즐거운 과정이기 때문에 한 줄 씩 늘려 나갈겁니다.
 
-- **IEEE GRSL (1저자)** - *"Spatiotemporal Attention with Conditional Feature Modulation for Satellite-Based Solar Irradiance Prediction"* (2026.01 게재)
-- **석사졸업논문 심사통과** - *CRPS 손실 기반 조건부 확산과 사후 공간 적응형 보정 모델* (2026.01 - 2026.08)
+### 1저자
+- Kim, Hanwool, et al. "Spatiotemporal Attention With Conditional Feature Modulation for Satellite-Based Solar Irradiance Prediction." IEEE Geoscience and Remote Sensing Letters 23 (2025): 1-5.
+
+### 석사 졸업 논문
+- Conditional Diffusion with CRPS Loss Post Spatially Adaptive Refinement: Appliction to Spatio-Temporal Image Prediction.(2026.8.)
+  - 지도 교수님: 전북대학교 통계학과 김광수 교수님
+
+### 학회 발표
 - **한국통계학회 포스터 발표 (1저자)** - *문서의 멀티모달 특징과 매니폴드 학습을 이용한 분류 성능 향상 연구* (2025.06)
 - **한국인공지능학회 포스터 발표 (3저자)** - *Human vs LLM Text Classification Using a Multi-Feature Approach* (2025.08)
 - **한국인공지능학회 포스터 발표 (2저자)** - *Interpretation of Medical Imaging in Survival Prediction with DNN and UMAP* (2024.11)
@@ -29,16 +46,7 @@
 
 ## Research Projects (주요 연구 과제)
 
-### 1. 무역 시계열 데이터 기반 이상 탐지(Anomaly Detection) 모형 연구
-- **기관**: 한국기계산업진흥회
-- **기간**: 2024.12 - 2025.09
-- **주요 역할 및 성과**:
-  - CICADA 알고리즘 기반 이상 탐지 모델 설계 및 제안 (최종 채택)
-  - 기존 알고리즘의 적절성 검토 및 다변량 이상 탐지 최신 문헌(40건) 비교 분석
-  - 데이터 처리 파이프라인을 고려한 변수 선정 및 코드 최적화 수행
-  - 최종 소스코드, 사용 가이드라인, 데이터 수집 방안 문서화 및 전달
-
-### 2. 위성 영상 기반 태양열/일사량 예측 모델링
+### 위성 영상 기반 태양열/일사량 예측 모델링
 - **기관**: 전북대학교 (라이즈 사업단 / G-LAMP 사업단)
 - **기간**: 2024.09 - current
 - **주요 역할 및 성과**:
@@ -47,18 +55,30 @@
   - CRPS 손실 기반 조건부 확산과 사후 공간 적응형 보정 모델 - 석사 졸업 논문 인준 (2026.01 - 2026.08)
   - 디퓨전 기반 태양광 예측 및 사후 공간 적응형 보정 모델 paper work (2026.01 - ing)
 
-### 3. 풍력 발전 예측(Wind Prediction) 모델링 연구
+### 풍력 발전 예측(Wind Prediction) 모델링 연구
 - **기관**: 전북대학교
 - **기간**: 2025.11 - current
 - **주요 역할 및 성과**:
   - 풍력 발전량 예측을 위한 데이터 분석 및 모델링 연구 수행
 
-### 4. 의료 데이터 ML/DL 예측 모델링 (Glucose & Breast Cancer)
+### 의료 데이터 ML/DL 예측 모델링 (Glucose & Breast Cancer)
 - **기관**: 전북대학교
 - **기간**: 2025.12 - current
 - **주요 역할 및 성과**:
   - 당뇨 및 Glucose 예측 연구 파트 책임
   - Breast Cancer 예측 및 COVID-19 ML 모델의 Reproducibility(재현성) 검증 연구 수행
+
+```
+### 1. 무역 시계열 데이터 기반 이상 탐지(Anomaly Detection) 모형 연구 -- renewal필요
+- **기관**: 한국기계산업진흥회
+- **기간**: 2024.12 - 2025.09
+- **주요 역할 및 성과**:
+  - CICADA 알고리즘 기반 이상 탐지 모델 설계 및 제안 (최종 채택)
+  - 기존 알고리즘의 적절성 검토 및 다변량 이상 탐지 최신 문헌(40건) 비교 분석
+  - 데이터 처리 파이프라인을 고려한 변수 선정 및 코드 최적화 수행
+  - 최종 소스코드, 사용 가이드라인, 데이터 수집 방안 문서화 및 전달
+```
+
 
 <br>
 
@@ -87,6 +107,12 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
+
+<br>
+
+## Interested in...
+
+
 
 <br>
 
