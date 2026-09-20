@@ -1,25 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" height="100%">
   <defs>
     <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0B2633"/>
-      <stop offset="50%" stop-color="#124359"/>
-      <stop offset="100%" stop-color="#1A6180"/>
-    </linearGradient>
-    <linearGradient id="pillGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.3"/>
-      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0.15"/>
+      <stop offset="0%" stop-color="#0F0F0F"/>
+      <stop offset="50%" stop-color="#181818"/>
+      <stop offset="100%" stop-color="#222222"/>
     </linearGradient>
     <filter id="shadow" x="-2%" y="-5%" width="104%" height="130%" filterUnits="userSpaceOnUse">
-      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#05151D" flood-opacity="0.35"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.6"/>
     </filter>
   </defs>
 
-  <rect x="8" y="8" width="1184" height="104" rx="20" ry="20" fill="url(#barGrad)" stroke="#38BDF8" stroke-opacity="0.3" stroke-width="1.5" filter="url(#shadow)"/>
+  <rect x="8" y="8" width="1184" height="104" rx="20" ry="20" fill="url(#barGrad)" stroke="#383838" stroke-width="1.5" filter="url(#shadow)"/>
 
   <!-- Left Icon & Badge -->
   <g transform="translate(40, 36)">
-    <rect x="0" y="0" width="50" height="50" rx="14" fill="#0E2F3F" stroke="#38BDF8" stroke-opacity="0.3" stroke-width="1"/>
-    <g transform="translate(13, 13)" stroke="#38BDF8" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="0" y="0" width="50" height="50" rx="14" fill="#141414" stroke="#383838" stroke-width="1"/>
+    <g transform="translate(13, 13)" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
       <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
       <polyline points="22,6 12,13 2,6"/>
     </g>
@@ -27,13 +23,13 @@
 
   <!-- Titles -->
   <text x="110" y="54" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF" letter-spacing="-0.5">Contact</text>
-  <text x="210" y="53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="#93C5FD">· 연구 협업, 데이터 사이언스 및 통계 분석 논의</text>
+  <text x="210" y="53" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="600" fill="#D4D4D4">· 연구 협업, 데이터 사이언스 및 통계 분석 논의</text>
   
-  <text x="110" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#BAE6FD" opacity="0.8">Email: 11015khw@gmail.com · Google Scholar · GitHub 하단 상세 섹션으로 이동</text>
+  <text x="110" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#888888">Email: 11015khw@gmail.com · Google Scholar · GitHub 하단 상세 섹션으로 이동</text>
 
   <!-- Right indicator (arrow down) -->
-  <g transform="translate(1120, 42)" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="18" cy="18" r="20" stroke-opacity="0.3" fill="#0C2633"/>
+  <g transform="translate(1120, 42)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="18" cy="18" r="20" stroke="#383838" fill="#141414"/>
     <path d="M12 15l6 6 6-6"/>
     <path d="M18 9v12"/>
   </g>
