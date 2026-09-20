@@ -81,18 +81,24 @@
 #### 성과
 - On Progress -- Alzheimer’s Research & Therapy submission 준비 중
 
+### 경도인지장애 환자의 어지럼 장애에 대한 표준화 은행엽 추출물 임상시험[2026.06 - Current]
+
+#### 주요 역할
+- 임상 통계 및 민감도 분석(Formal Analysis): ANCOVA 주분석, 결측치 보정을 위한 MICE(다중대체법, $m=20$) 분석, Tipping-point 분석 및 18점 Responder(반응군) 분석 수행
+- 임상 데이터 큐레이션 및 파이프라인 구축(Data Curation & Software): 71명 무작위 배정 임상 코호트 데이터 전처리·정제 및 재현 가능한 Python/R 분석 파이프라인 개발
+- 결과 시각화 및 원고 작성 지원(Visualization & Writing): CONSORT 흐름도, Tipping-point 히트맵, DHI 점수 변화 그래프 등 핵심 Figure/Table 제작 및 통계·결과 섹션 검토/수정
+
+#### 성과
+- On Progress -- Phytomedicine 투고 및 심사 중 (Manuscript No. PHYMED-D-26-09173) (Standardized Ginkgo biloba Extract for Dizziness-Related Disability in Mild Cognitive Impairment: A Randomized Placebo-Controlled Trial)
 
 
-```
-### 1. 무역 시계열 데이터 기반 이상 탐지(Anomaly Detection) 모형 연구 -- renewal필요
-- **기관**: 한국기계산업진흥회
-- **기간**: 2024.12 - 2025.09
-- **주요 역할 및 성과**:
-  - CICADA 알고리즘 기반 이상 탐지 모델 설계 및 제안 (최종 채택)
-  - 기존 알고리즘의 적절성 검토 및 다변량 이상 탐지 최신 문헌(40건) 비교 분석
-  - 데이터 처리 파이프라인을 고려한 변수 선정 및 코드 최적화 수행
-  - 최종 소스코드, 사용 가이드라인, 데이터 수집 방안 문서화 및 전달
-```
+### 무역 시계열 데이터 기반 이상 탐지(Anomaly Detection) 모형 연구 [2024.12 - 2025.09]
+- 의뢰 기관: 한국기계산업진흥회 -> 전북대학교 산학협력단 통계학과
+#### 주요 역할
+- 기존 알고리즘의 적절성 검토 및 다변량 이상 탐지 최신 문헌(40건) 비교 분석
+- 데이터 처리 파이프라인 검수 및 기존 모델 잠재 버그 개선
+- CICADA 알고리즘 기반 이상 탐지 모델 설계 및 제안 (최종 채택)
+- 최종 소스코드, 사용 가이드라인, 데이터 수집 방안 문서화 및 전달
 
 
 <br>
