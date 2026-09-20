@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0E2F3F"/>
+      <stop offset="60%" stop-color="#154B63"/>
+      <stop offset="100%" stop-color="#1A6180"/>
+    </linearGradient>
+    <linearGradient id="pillGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#0EA5E9" stop-opacity="0.15"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="115%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#05151D" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect x="8" y="8" width="384" height="224" rx="20" ry="20" fill="url(#cardGrad)" stroke="#38BDF8" stroke-opacity="0.25" stroke-width="1.5" filter="url(#shadow)"/>
+  
+  <circle cx="340" cy="50" r="70" fill="#38BDF8" opacity="0.08" />
+
+  <!-- Badge Pill -->
+  <rect x="28" y="28" width="115" height="26" rx="13" fill="url(#pillGrad)" stroke="#38BDF8" stroke-opacity="0.4" stroke-width="1"/>
+  <text x="85" y="45" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" fill="#7DD3FC" text-anchor="middle" letter-spacing="1">MENTORING</text>
+
+  <!-- Icon (Users / Presentation) -->
+  <g transform="translate(328, 30)" stroke="#7DD3FC" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/>
+    <circle cx="9" cy="7" r="4"/>
+    <path d="M23 21v-2a4 4 0 0 0-3-3.87"/>
+    <path d="M16 3.13a4 4 0 0 1 0 7.75"/>
+  </g>
+
+  <!-- Main Title -->
+  <text x="28" y="105" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="24" font-weight="800" fill="#FFFFFF" letter-spacing="-0.5">Teaching &amp; Mentoring</text>
+  <text x="28" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#93C5FD">교육 및 멘토링</text>
+
+  <!-- Description / Tags -->
+  <text x="28" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#BAE6FD" opacity="0.85">전북대 응용통계연구소 워크숍 TA (R, 통계)</text>
+  <text x="28" y="192" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#BAE6FD" opacity="0.75">농진청 GWAS 교육 조교 · 교내 딥러닝 튜터링</text>
+
+  <!-- Footer link indicator -->
+  <g transform="translate(340, 185)" fill="none" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="10" cy="10" r="14" stroke-opacity="0.3" fill="#0C2633"/>
+    <path d="M7 10h6m-3-3 3 3-3 3"/>
+  </g>
+</svg>
