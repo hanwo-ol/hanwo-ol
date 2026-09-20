@@ -46,27 +46,34 @@
 
 ## Research Projects (주요 연구 과제)
 
-### 위성 영상 기반 태양열/일사량 예측 모델링
-- **기관**: 전북대학교 (라이즈 사업단 / G-LAMP 사업단)
-- **기간**: 2024.09 - current
-- **주요 역할 및 성과**:
-  - 공간적-시간적 어텐션(Spatiotemporal Attention) 기법을 적용한 일사량 예측 파이프라인 구축
-  - 연구 결과를 바탕으로 IEEE GRSL 1저자 논문 게재 (2026.01)
-  - CRPS 손실 기반 조건부 확산과 사후 공간 적응형 보정 모델 - 석사 졸업 논문 인준 (2026.01 - 2026.08)
-  - 디퓨전 기반 태양광 예측 및 사후 공간 적응형 보정 모델 paper work (2026.01 - ing)
+### 위성 영상 기반 일사량 예측 모델링[2024.09 - Current]
+#### 주요 역할
+- 공간적-시간적 어텐션(Spatiotemporal Attention) 기법을 적용한 일사량 예측 파이프라인 구축
+- FiLM을 통해 주변 정보를 모델에 injection 하는 등 조건부 정보 주입 방법론 연구
 
-### 풍력 발전 예측(Wind Prediction) 모델링 연구
-- **기관**: 전북대학교
-- **기간**: 2025.11 - current
-- **주요 역할 및 성과**:
-  - 풍력 발전량 예측을 위한 데이터 분석 및 모델링 연구 수행
+#### 성과
+- 연구 결과를 바탕으로 IEEE GRSL 1저자 논문 게재 (2026.01)
+- CRPS 손실 기반 조건부 확산과 사후 공간 적응형 보정 모델 - 석사 졸업 논문 인준 (2026.01 - 2026.08)
+- 디퓨전 기반 태양광 예측 및 사후 공간 적응형 보정 모델 paper work (2026.01 - ing)
 
-### 의료 데이터 ML/DL 예측 모델링 (Glucose & Breast Cancer)
-- **기관**: 전북대학교
-- **기간**: 2025.12 - current
-- **주요 역할 및 성과**:
-  - 당뇨 및 Glucose 예측 연구 파트 책임
-  - Breast Cancer 예측 및 COVID-19 ML 모델의 Reproducibility(재현성) 검증 연구 수행
+### 풍력 발전 예측(Wind Prediction) 모델링 연구[2025.11 - Current]
+#### 주요 역할
+- 풍력 발전량 예측을 위한 데이터 분석 및 모델링 연구 수행
+
+#### 성과
+- On progress
+
+### 의료 데이터 ML/DL 모델의 Reproducibility/Generalization 검증 연구[2025.12 - Current]
+#### 주요 역할
+- 당뇨 및 Glucose 예측 연구 파트 책임
+- Breast Cancer 예측 및 COVID-19 ML 모델의 Reproducibility(재현성) 검증 연구 수행
+
+#### 성과
+- On progress -- NPJ Digital Medicine submission 준비
+
+
+
+
 
 ```
 ### 1. 무역 시계열 데이터 기반 이상 탐지(Anomaly Detection) 모형 연구 -- renewal필요
