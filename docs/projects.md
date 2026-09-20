@@ -51,12 +51,16 @@
 - CRPS 손실 기반 조건부 확산과 사후 공간 적응형 보정 모델 - 석사 졸업 논문 인준 (2026.01 - 2026.08)
 - 디퓨전 기반 태양광 예측 및 사후 공간 적응형 보정 모델 paper work (2026.01 - ing)
 
+---
+
 ### 풍력 발전 예측(Wind Prediction) 모델링 연구[2025.11 - Current]
 #### 주요 역할
 - 풍력 발전량 예측을 위한 데이터 분석 및 모델링 연구 수행
 
 #### 성과
 - On progress
+
+---
 
 ### 의료 데이터 ML/DL 모델의 Reproducibility/Generalization 검증 연구[2025.12 - Current]
 #### 주요 역할
@@ -66,6 +70,8 @@
 #### 성과
 - On progress -- NPJ Digital Medicine submission 준비
 
+---
+
 ### 가상 현실 공간 탐색(vMWM) 기반 경도인지장애(MCI) 행동 지표 분석 연구[2026.06 - Current]
 #### 주요 역할
 - vMWM 가상 궤적 데이터 및 다변량 행동 지표(지연시간, 부유 행동, 근접도 오차, 종점 전략) 전처리 파이프라인 구축 및 통계 분석 총괄
@@ -74,6 +80,8 @@
 
 #### 성과
 - On Progress -- Alzheimer’s Research & Therapy submission 준비 중
+
+---
 
 ### 경도인지장애 환자의 어지럼 장애에 대한 표준화 은행엽 추출물 임상시험[2026.06 - Current]
 
@@ -85,6 +93,7 @@
 #### 성과
 - On Progress -- Phytomedicine 투고 및 심사 중 (Manuscript No. PHYMED-D-26-09173) (Standardized Ginkgo biloba Extract for Dizziness-Related Disability in Mild Cognitive Impairment: A Randomized Placebo-Controlled Trial)
 
+---
 
 ### 무역 시계열 데이터 기반 이상 탐지(Anomaly Detection) 모형 연구 [2024.12 - 2025.09]
 - 의뢰 기관: 한국기계산업진흥회 -> 전북대학교 산학협력단 통계학과
