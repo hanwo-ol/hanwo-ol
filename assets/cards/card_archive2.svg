@@ -1,45 +1,34 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 92" width="100%" height="100%">
   <defs>
-    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="barGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#0F0F0F"/>
-      <stop offset="50%" stop-color="#181818"/>
-      <stop offset="100%" stop-color="#222222"/>
+      <stop offset="50%" stop-color="#161616"/>
+      <stop offset="100%" stop-color="#202020"/>
     </linearGradient>
-    <linearGradient id="pillGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#2A2A2A"/>
-      <stop offset="100%" stop-color="#1A1A1A"/>
-    </linearGradient>
-    <filter id="shadow" x="-5%" y="-5%" width="110%" height="115%" filterUnits="userSpaceOnUse">
-      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.6"/>
+    <filter id="shadow" x="-3%" y="-15%" width="106%" height="135%" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.5"/>
     </filter>
   </defs>
 
-  <rect x="8" y="8" width="384" height="224" rx="20" ry="20" fill="url(#cardGrad)" stroke="#383838" stroke-width="1.5" filter="url(#shadow)"/>
-  
-  <circle cx="340" cy="50" r="70" fill="#FFFFFF" opacity="0.03" />
+  <rect x="6" y="6" width="508" height="80" rx="16" ry="16" fill="url(#barGrad)" stroke="#333333" stroke-width="1.5" filter="url(#shadow)"/>
 
-  <!-- Badge Pill -->
-  <rect x="28" y="28" width="115" height="26" rx="13" fill="url(#pillGrad)" stroke="#444444" stroke-width="1"/>
-  <text x="85" y="45" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" fill="#E5E5E5" text-anchor="middle" letter-spacing="1">ARCHIVE 2</text>
-
-  <!-- Icon (External Link) -->
-  <g transform="translate(328, 30)" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
-    <polyline points="15 3 21 3 21 9"/>
-    <line x1="10" y1="14" x2="21" y2="3"/>
+  <!-- Icon Container -->
+  <g transform="translate(20, 22)">
+    <rect x="0" y="0" width="48" height="48" rx="12" fill="#141414" stroke="#333333" stroke-width="1"/>
+    <g transform="translate(13, 13)" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M16 12v6a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/>
+      <polyline points="13 3 19 3 19 9"/>
+      <line x1="9" y1="13" x2="19" y2="3"/>
+    </g>
   </g>
 
-  <!-- Main Title -->
-  <text x="28" y="105" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="23" font-weight="800" fill="#FFFFFF" letter-spacing="-0.5">연구노트 아카이브 2</text>
-  <text x="28" y="132" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#D4D4D4">master_paper</text>
+  <!-- Text: Title & Subtitle -->
+  <text x="82" y="44" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="800" fill="#FFFFFF" letter-spacing="-0.3">Archive 2</text>
+  <text x="82" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="500" fill="#D4D4D4">연구노트 아카이브 (master_paper)</text>
 
-  <!-- Description / Tags -->
-  <text x="28" y="172" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#A3A3A3">석사 졸업 논문 연구 아카이브 및 코드 저장소</text>
-  <text x="28" y="192" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" fill="#888888">hanwo-ol.github.io/master_paper</text>
-
-  <!-- Footer link indicator (External Arrow) -->
-  <g transform="translate(340, 185)" fill="none" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="10" cy="10" r="14" stroke="#383838" fill="#141414"/>
-    <path d="M7 13l6-6m-5 0h5v5"/>
+  <!-- Right Indicator (External Arrow) -->
+  <g transform="translate(462, 30)" fill="none" stroke="#FFFFFF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="16" cy="16" r="16" stroke="#333333" fill="#141414"/>
+    <path d="M12 20l8-8m-6 0h6v6"/>
   </g>
 </svg>

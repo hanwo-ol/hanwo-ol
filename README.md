@@ -55,67 +55,26 @@ Hanwool Kim (김한울) is a South Korean Biostatistician and Data Scientist at 
 
 <br>
 
-<!-- 3x3 Interactive Portfolio Dashboard Grid -->
-<table border="0" width="100%" cellspacing="10" cellpadding="0">
-  <tr>
-    <td width="33.33%" align="center" valign="top">
-      <a href="./docs/experience.md">
-        <img src="./assets/cards/card_experience.svg" alt="Experience" width="100%" />
-      </a>
-    </td>
-    <td width="33.33%" align="center" valign="top">
-      <a href="./docs/education.md">
-        <img src="./assets/cards/card_education.svg" alt="Education" width="100%" />
-      </a>
-    </td>
-    <td width="33.33%" align="center" valign="top">
-      <a href="./docs/publication.md">
-        <img src="./assets/cards/card_publication.svg" alt="Publication" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33.33%" align="center" valign="top">
-      <a href="./docs/projects.md">
-        <img src="./assets/cards/card_projects.svg" alt="Research Projects" width="100%" />
-      </a>
-    </td>
-    <td width="33.33%" align="center" valign="top">
-      <a href="./docs/teaching.md">
-        <img src="./assets/cards/card_teaching.svg" alt="Teaching & Mentoring" width="100%" />
-      </a>
-    </td>
-    <td width="33.33%" align="center" valign="top">
-      <a href="./docs/etc.md">
-        <img src="./assets/cards/card_etc.svg" alt="기타 활동" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33.33%" align="center" valign="top">
-      <a href="https://hanwo-ol.github.io/funfunpaperreview/" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/cards/card_archive1.svg" alt="연구노트 아카이브 1" width="100%" />
-      </a>
-    </td>
-    <td width="33.33%" align="center" valign="top">
-      <a href="https://hanwo-ol.github.io/master_paper/" target="_blank" rel="noopener noreferrer">
-        <img src="./assets/cards/card_archive2.svg" alt="연구노트 아카이브 2" width="100%" />
-      </a>
-    </td>
-    <td width="33.33%" align="center" valign="top">
-      <a href="./docs/page2.md">
-        <img src="./assets/cards/card_page2.svg" alt="다음 페이지" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="3" width="100%" align="center" valign="top">
-      <a href="#contact">
-        <img src="./assets/cards/bar_contact.svg" alt="Contact" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- 1-Column Mobile-Optimized Interactive Card Stack -->
+<div align="center">
+  <a href="./docs/experience.md"><img src="./assets/cards/card_experience.svg" alt="Experience" width="560" /></a>
+  <br><br>
+  <a href="./docs/education.md"><img src="./assets/cards/card_education.svg" alt="Education" width="560" /></a>
+  <br><br>
+  <a href="./docs/publication.md"><img src="./assets/cards/card_publication.svg" alt="Publication" width="560" /></a>
+  <br><br>
+  <a href="./docs/projects.md"><img src="./assets/cards/card_projects.svg" alt="Research Projects" width="560" /></a>
+  <br><br>
+  <a href="./docs/teaching.md"><img src="./assets/cards/card_teaching.svg" alt="Teaching &amp; Mentoring" width="560" /></a>
+  <br><br>
+  <a href="./docs/etc.md"><img src="./assets/cards/card_etc.svg" alt="Activities" width="560" /></a>
+  <br><br>
+  <a href="https://hanwo-ol.github.io/funfunpaperreview/" target="_blank" rel="noopener noreferrer"><img src="./assets/cards/card_archive1.svg" alt="연구노트 아카이브 1" width="560" /></a>
+  <br><br>
+  <a href="https://hanwo-ol.github.io/master_paper/" target="_blank" rel="noopener noreferrer"><img src="./assets/cards/card_archive2.svg" alt="연구노트 아카이브 2" width="560" /></a>
+  <br><br>
+  <a href="#contact"><img src="./assets/cards/bar_contact.svg" alt="Contact" width="560" /></a>
+</div>
 
 <br>
 
