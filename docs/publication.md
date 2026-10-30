@@ -12,6 +12,17 @@
       "publication": "IEEE Geoscience and Remote Sensing Letters 23 (2025): 1-5"
     },
     {
+      "@type": "ScholarlyArticle",
+      "name": "Standardized Ginkgo biloba Extract for Dizziness-Related Disability in Mild Cognitive Impairment: A Randomized, Double-Blind, Placebo-Controlled Trial",
+      "publication": "Phytotherapy Research (Under Review)",
+      "description": "Co-first Author"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Spatially-adapted Diffusion Models for Solar Irradiance Prediction",
+      "publication": "IEEE Geoscience and Remote Sensing Letters (Under Review)"
+    },
+    {
       "@type": "Thesis",
       "name": "Conditional Diffusion with CRPS Loss Post Spatially Adaptive Refinement: Appliction to Spatio-Temporal Image Prediction",
       "inLanguage": "ko",
@@ -32,6 +43,12 @@
 
 ### 1저자
 - Kim, Hanwool, et al. "Spatiotemporal Attention With Conditional Feature Modulation for Satellite-Based Solar Irradiance Prediction." IEEE Geoscience and Remote Sensing Letters 23 (2025): 1-5.
+
+### 공동 1저자 (투고 중)
+- Kang, Jin-Ju*, **Han-Wool Kim***, and Sun-Young Oh. "Standardized Ginkgo biloba Extract for Dizziness-Related Disability in Mild Cognitive Impairment: A Randomized, Double-Blind, Placebo-Controlled Trial." *Phytotherapy Research* (Under Review). (*Equal contribution / Co-first author)
+
+### 공동 저자 (3저자)
+- Jeon, Junhan, Shinsung Kang, **Hanwool Kim**, Jongmin Yeom, and Gwangsu Kim. "Spatially-adapted Diffusion Models for Solar Irradiance Prediction." IEEE Geoscience and Remote Sensing Letters (Under Review).
 
 ### 석사 졸업 논문
 - Conditional Diffusion with CRPS Loss Post Spatially Adaptive Refinement: Appliction to Spatio-Temporal Image Prediction.(2026.8.)

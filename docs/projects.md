@@ -49,7 +49,7 @@
 #### 성과
 - 연구 결과를 바탕으로 IEEE GRSL 1저자 논문 게재 (2026.01)
 - CRPS 손실 기반 조건부 확산과 사후 공간 적응형 보정 모델 - 석사 졸업 논문 인준 (2026.01 - 2026.08)
-- 디퓨전 기반 태양광 예측 및 사후 공간 적응형 보정 모델 paper work (2026.01 - ing)
+- 디퓨전 기반 태양광 예측 및 사후 공간 적응형 보정 모델 (Spatially-adapted Diffusion Models for Solar Irradiance Prediction) - IEEE GRSL 투고 및 심사 중 (2026.10)
 
 ---
 

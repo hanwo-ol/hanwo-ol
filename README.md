@@ -30,7 +30,8 @@
   ],
   "citation": [
     "IEEE Geoscience and Remote Sensing Letters (2025/2026, 1st Author)",
-    "Phytomedicine (Under review, 2026)",
+    "IEEE Geoscience and Remote Sensing Letters (Under review, 2026, 3rd Author)",
+    "Phytotherapy Research (Under review, 2026, Co-first Author)",
     "Alzheimer's Research & Therapy (Submission prepared, 2026)"
   ]
 }
