@@ -23,11 +23,14 @@
 
 <p align="left">
   <a href="../README.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기" width="260" />
+    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
   </a>
 </p>
 
 ## EXPERIENCE
+
+> **연구자 정보**: 김한울 (Hanwool Kim) | 전북대학교병원 의생명연구원 신경과 Vestibular Lab Researcher (전북대 통계학 석사)
+
 홀 매니저와 영업을 하며 인과분석이라는 연구를 접했고
 복학과 석사과정을 거치며 연구자의 길을 시작했습니다.(물론 인과분석은 아직 시작도 못했습니다.)
 
@@ -42,6 +45,6 @@
 
 <p align="left">
   <a href="../README.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기" width="260" />
+    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
   </a>
 </p>

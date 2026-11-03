@@ -17,11 +17,13 @@
 
 <p align="left">
   <a href="../README.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기" width="260" />
+    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
   </a>
 </p>
 
 ## Teaching & Mentoring (교육 및 멘토링)
+
+> **연구자 정보**: 김한울 (Hanwool Kim) | 전북대학교 대학원 통계학과 · 전북대 응용통계연구소 TA
 
 - **전북대학교 교내 튜터링** (2025.07 - 2025.08)
   - 학부생 대상 딥러닝 문헌 조사 및 모델링 아이디어 세미나 개최
@@ -41,6 +43,6 @@
 
 <p align="left">
   <a href="../README.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기" width="260" />
+    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
   </a>
 </p>

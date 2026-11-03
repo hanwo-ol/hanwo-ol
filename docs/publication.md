@@ -34,11 +34,14 @@
 
 <p align="left">
   <a href="../README.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기" width="260" />
+    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
   </a>
 </p>
 
 ## PUBLICATION
+
+> **연구자 정보**: 김한울 (Hanwool Kim) | 전북대학교병원 의생명연구원 신경과 Vestibular Lab (전북대 통계학 석사)
+
 아직은 미약하고 볼품 없습니다. 연구 자체가 너무 행복하고 즐거운 과정이기 때문에 한 줄 씩 늘려 나갈겁니다.
 
 ### 1저자
@@ -63,6 +66,6 @@
 
 <p align="left">
   <a href="../README.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기" width="260" />
+    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
   </a>
 </p>

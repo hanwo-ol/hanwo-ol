@@ -35,11 +35,13 @@
 
 <p align="left">
   <a href="../README.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기" width="260" />
+    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
   </a>
 </p>
 
 ## Research Projects (주요 연구 과제)
+
+> **연구자 정보**: 김한울 (Hanwool Kim) | 전북대학교병원 의생명연구원 신경과 Vestibular Lab (전북대 통계학 석사)
 
 ### 위성 영상 기반 일사량 예측 모델링[2024.09 - Current]
 #### 주요 역할
@@ -107,6 +109,6 @@
 
 <p align="left">
   <a href="../README.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기" width="260" />
+    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
   </a>
 </p>

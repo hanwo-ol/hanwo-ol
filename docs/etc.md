@@ -16,11 +16,13 @@
 
 <p align="left">
   <a href="../README.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기" width="260" />
+    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
   </a>
 </p>
 
 ## 기타 이력 및 활동
+
+> **연구자 정보**: 김한울 (Hanwool Kim) | 전북대학교병원 의생명연구원 신경과 Vestibular Lab (전북대 통계학 석사)
 
 - **자격증**: 데이터분석준전문가(ADsP, 2023.09), TOEIC (955점, 2024.03), 회계관리 2급 (2019.01)
 - **교육 수료**: 쉬운 HPC 활용교육 - 데이터 패브릭 기술개요 및 사례(현대 조직을 위한 데이터 통합 전략) 수료 (2026.11)
@@ -31,6 +33,6 @@
 
 <p align="left">
   <a href="../README.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기" width="260" />
+    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
   </a>
 </p>

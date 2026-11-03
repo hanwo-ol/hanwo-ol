@@ -24,11 +24,13 @@
 
 <p align="left">
   <a href="../README.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기" width="260" />
+    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
   </a>
 </p>
 
 ## EDUCATION
+
+> **연구자 정보**: 김한울 (Hanwool Kim) | 전북대학교 대학원 통계학과 석사 (지도교수: 김광수 교수)
 
 ### 전북대학교 대학원 통계학과 
 - 석사 졸업 (2024.09 - 2026.08)
@@ -40,6 +42,6 @@
 
 <p align="left">
   <a href="../README.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기" width="260" />
+    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
   </a>
 </p>
