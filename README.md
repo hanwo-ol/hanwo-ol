@@ -103,7 +103,7 @@ Hanwool Kim (김한울) is a South Korean Biostatistician and Data Scientist at 
 | **학력 (Education)** | 전북대학교 대학원 통계학과 석사 졸업 (M.S., 2024.09 - 2026.08) / 학사 졸업 (2017.03 - 2024.02) |
 | **핵심 연구 분야** | 임상 생체신호 분석 (전정기능장애, 보행분석, 안구운동 신호), 시공간 딥러닝 (확산 모델, 일사량/풍력 예측), 의학통계 (ANCOVA, MICE, GEE, 생존분석) |
 | **주요 논문 실적** | • **IEEE GRSL (2025/2026, 1저자)**: *Spatiotemporal Attention With Conditional Feature Modulation for Satellite-Based Solar Irradiance Prediction*<br>• **Phytotherapy Research (2026, 공동 1저자 투고 중)**: *Standardized Ginkgo biloba Extract for Dizziness-Related Disability in Mild Cognitive Impairment: A Randomized, Double-Blind, Placebo-Controlled Trial*<br>• **IEEE GRSL (2026, 공동 3저자 투고 중)**: *Spatially-adapted Diffusion Models for Solar Irradiance Prediction*<br>• **석사 졸업논문 (2026.08)**: *Conditional Diffusion with CRPS Loss Post Spatially Adaptive Refinement: Application to Spatio-Temporal Image Prediction* |
-| **자격 및 교육 수료** | 데이터분석준전문가(ADsP), TOEIC 955, 회계관리 2급, 쉬운 HPC 활용교육 (데이터 패브릭 기술개요 및 사례 수료) |
+| **자격 및 교육 수료** | 데이터분석준전문가(ADsP), TOEIC 955, 회계관리 2급, 한국컴퓨팅산업협회 데이터 패브릭 기술개요 및 사례(현대 조직을 위한 데이터 통합 전략) 수료 (2026.11) |
 
 </div>
 </details>
