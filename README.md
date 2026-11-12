@@ -68,7 +68,7 @@ Hanwool Kim (김한울) is a South Korean Biostatistician and Data Scientist at 
   <br><br>
   <a href="./docs/teaching.md"><img src="./assets/cards/card_teaching.svg" alt="Teaching &amp; Mentoring: 전북대학교 통계자료분석 워크숍 조교, 농촌진흥청 GWAS 분석 조교, 딥러닝 튜터링" width="560" /></a>
   <br><br>
-  <a href="./docs/etc.md"><img src="./assets/cards/card_etc.svg" alt="Activities &amp; Certifications: 데이터분석준전문가(ADsP), TOEIC 955, HPC 데이터 패브릭 교육 수료, 마케팅전략팀 실무, 봉사단 1등 수상" width="560" /></a>
+  <a href="./docs/etc.md"><img src="./assets/cards/card_etc.svg" alt="Activities &amp; Certifications: 데이터분석준전문가(ADsP), TOEIC 955, 한국컴퓨팅산업협회 교육 수료(데이터 패브릭, 서버 원격 관리 BMC/IPMI), 마케팅전략팀 실무, 봉사단 1등 수상" width="560" /></a>
   <br><br>
   <a href="https://hanwo-ol.github.io/funfunpaperreview/" target="_blank" rel="noopener noreferrer"><img src="./assets/cards/card_archive1.svg" alt="연구노트 아카이브 1 (funfunpaperreview): 인공지능 및 통계 머신러닝 논문 리뷰 서재" width="560" /></a>
   <br><br>
@@ -103,7 +103,7 @@ Hanwool Kim (김한울) is a South Korean Biostatistician and Data Scientist at 
 | **학력 (Education)** | 전북대학교 대학원 통계학과 석사 졸업 (M.S., 2024.09 - 2026.08) / 학사 졸업 (2017.03 - 2024.02) |
 | **핵심 연구 분야** | 임상 생체신호 분석 (전정기능장애, 보행분석, 안구운동 신호), 시공간 딥러닝 (확산 모델, 일사량/풍력 예측), 의학통계 (ANCOVA, MICE, GEE, 생존분석) |
 | **주요 논문 실적** | • **IEEE GRSL (2025/2026, 1저자)**: *Spatiotemporal Attention With Conditional Feature Modulation for Satellite-Based Solar Irradiance Prediction*<br>• **Phytotherapy Research (2026, 공동 1저자 투고 중)**: *Standardized Ginkgo biloba Extract for Dizziness-Related Disability in Mild Cognitive Impairment: A Randomized, Double-Blind, Placebo-Controlled Trial*<br>• **IEEE GRSL (2026, 공동 3저자 투고 중)**: *Spatially-adapted Diffusion Models for Solar Irradiance Prediction*<br>• **석사 졸업논문 (2026.08)**: *Conditional Diffusion with CRPS Loss Post Spatially Adaptive Refinement: Application to Spatio-Temporal Image Prediction* |
-| **자격 및 교육 수료** | 데이터분석준전문가(ADsP), TOEIC 955, 회계관리 2급, 한국컴퓨팅산업협회 데이터 패브릭 기술개요 및 사례(현대 조직을 위한 데이터 통합 전략) 수료 (2026.11) |
+| **자격 및 교육 수료** | • **자격증**: 데이터분석준전문가(ADsP), TOEIC 955, 회계관리 2급<br>• **교육 수료 (한국컴퓨팅산업협회)**: 서버 원격 관리를 위한 BMC 펌웨어 및 IPMI 개념이론 (2026.11), 데이터 패브릭 기술개요 및 사례(현대 조직을 위한 데이터 통합 전략) (2026.11) |
 
 </div>
 </details>
