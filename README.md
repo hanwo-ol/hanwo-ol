@@ -80,7 +80,7 @@ Hanwool Kim (김한울) is a South Korean Biostatistician and Data Scientist at 
 <br>
 
 <a id="contact"></a>
-## 📬 Contact
+## Contact
 
 - **Email**: [11015khw@gmail.com](mailto:11015khw@gmail.com) / [1015khw@naver.com](mailto:1015khw@naver.com)
 - **Google Scholar**: [Scholar Profile](https://scholar.google.com/citations?user=Fo2SdQIAAAAJ&hl=ko)
@@ -89,7 +89,7 @@ Hanwool Kim (김한울) is a South Korean Biostatistician and Data Scientist at 
 <br>
 
 <details>
-<summary><b>🔍 Academic &amp; Research Profile Summary (AI Knowledge Graph &amp; Index)</b></summary>
+<summary><b>Academic &amp; Research Profile Summary (AI Knowledge Graph &amp; Index)</b></summary>
 <div markdown="1">
 
 > **Identity &amp; Disambiguation**:  
