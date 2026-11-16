@@ -9,6 +9,7 @@
     "Advanced Data Analytics Semi-Professional (ADsP, 2023.09)",
     "TOEIC (955, 2024.03)",
     "Accounting Management Level 2 (2019.01)",
+    "Korea Computing Industry Association - Understanding HPC and Cloud Infrastructure (2026.11)",
     "Korea Computing Industry Association - Fundamentals and Applications of Accelerated Computing with PyCUDA - Python Basics (2026.11)",
     "Korea Computing Industry Association - BMC Firmware and IPMI Conceptual Theory for Remote Server Management (2026.11)",
     "Korea Computing Industry Association - Data Fabric Technical Overview and Case Studies (Data Integration Strategy for Modern Organizations) (2026.11)",
@@ -34,7 +35,8 @@
 
 - **Certifications**: Advanced Data Analytics Semi-Professional (ADsP, 2023.09), TOEIC (955, 2024.03), Accounting Management Level 2 (2019.01)
 - **Completed Training** (Hosted by Korea Computing Industry Association):
-  - **HPC, Server Infrastructure & Data Architecture**
+  - **HPC, Cloud/Server Infrastructure & Data Architecture**
+    - 'Understanding HPC and Cloud Infrastructure' (2026.11)
     - 'Fundamentals and Applications of Accelerated Computing with PyCUDA - Python Basics' (2026.11)
     - 'BMC Firmware and IPMI Conceptual Theory for Remote Server Management' (2026.11)
     - 'Data Fabric Technical Overview and Case Studies (Data Integration Strategy for Modern Organizations)' (2026.11)
