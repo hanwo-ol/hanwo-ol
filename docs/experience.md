@@ -21,8 +21,12 @@
 }
 -->
 
+<div align="right">
+  <a href="./en/experience.md">English Version</a>
+</div>
+
 <p align="left">
-  <a href="../README.md">
+  <a href="../README_KO.md">
     <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
   </a>
 </p>
@@ -44,7 +48,7 @@
 <br><br>
 
 <p align="left">
-  <a href="../README.md">
+  <a href="../README_KO.md">
     <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
   </a>
 </p>
