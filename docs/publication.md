@@ -37,9 +37,7 @@
 </div>
 
 <p align="left">
-  <a href="../README_KO.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
-  </a>
+  <a href="../README_KO.md">메인 프로필로 돌아가기</a>
 </p>
 
 ## PUBLICATION
@@ -56,6 +54,7 @@
 
 ### 공동 저자 (3저자)
 - Jeon, Junhan, Shinsung Kang, **Hanwool Kim**, Jongmin Yeom, and Gwangsu Kim. "Spatially-adapted Diffusion Models for Solar Irradiance Prediction." IEEE Geoscience and Remote Sensing Letters (Under Review).
+  - 관련 블로그 기록: [GRSL 2번째 논문 투고!](https://blog.naver.com/d0njusey0/224458716138) · [자연과학 논문 작성 원칙](https://blog.naver.com/d0njusey0/224469526810) · [심사 피드백 회고](https://blog.naver.com/d0njusey0/224466410263)
 
 ### 석사 졸업 논문
 - Conditional Diffusion with CRPS Loss Post Spatially Adaptive Refinement: Appliction to Spatio-Temporal Image Prediction.(2026.8.)
@@ -69,7 +68,5 @@
 <br><br>
 
 <p align="left">
-  <a href="../README_KO.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
-  </a>
+  <a href="../README_KO.md">메인 프로필로 돌아가기</a>
 </p>

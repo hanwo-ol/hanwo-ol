@@ -24,9 +24,7 @@
 </div>
 
 <p align="left">
-  <a href="../../README.md">
-    <img src="../../assets/cards/en/btn_back.svg" alt="Back to Main Dashboard (Hanwool Kim Profile)" width="260" />
-  </a>
+  <a href="../../README.md">Back to Main Profile</a>
 </p>
 
 ## Activities & Certifications
@@ -38,18 +36,16 @@
   - **HPC, Cloud/Server Infrastructure & Data Architecture**
     - 'Understanding HPC and Cloud Infrastructure' (2026.11)
     - 'Fundamentals and Applications of Accelerated Computing with PyCUDA - Python Basics' (2026.11)
-    - 'BMC Firmware and IPMI Conceptual Theory for Remote Server Management' (2026.11)
+    - 'BMC Firmware and IPMI Conceptual Theory for Remote Server Management' (2026.11) — [Practical Server Glossary Note (Naver Blog, Korean)](https://blog.naver.com/d0njusey0/224474446685)
     - 'Data Fabric Technical Overview and Case Studies (Data Integration Strategy for Modern Organizations)' (2026.11)
   - **Generative AI & Low-Code Workflow Applications**
     - 'Prompt Engineering with Generative AI' (2026.11)
-    - 'AI Utilization with No-Code and Low-Code Platforms' (2026.11)
+    - 'AI Utilization with No-Code and Low-Code Platforms' (2026.11) — [Clinical Pipeline Study Note (Naver Blog, Korean)](https://blog.naver.com/d0njusey0/224478324746)
 - **LB Hunet Co., Ltd. (Jeonju Center, Marketing Strategy Team)** (2022.02 - 2023.03): Outbound marketing, database management, and weekly performance aggregation & analysis
 - **Export-Import Bank of Korea / Jeonbuk Volunteer Corps (Hope Seed 9th Cohort)** (2021.06 - 2021.12): External cooperation and participant database analysis for the Nature Refabric Team (Awarded 1st Place)
 
 <br><br>
 
 <p align="left">
-  <a href="../../README.md">
-    <img src="../../assets/cards/en/btn_back.svg" alt="Back to Main Dashboard (Hanwool Kim Profile)" width="260" />
-  </a>
+  <a href="../../README.md">Back to Main Profile</a>
 </p>

@@ -37,9 +37,7 @@
 </div>
 
 <p align="left">
-  <a href="../../README.md">
-    <img src="../../assets/cards/en/btn_back.svg" alt="Back to Main Dashboard (Hanwool Kim Profile)" width="260" />
-  </a>
+  <a href="../../README.md">Back to Main Profile</a>
 </p>
 
 ## PUBLICATION
@@ -56,6 +54,7 @@ My academic record is still modest, but because the research process itself brin
 
 ### Co-Author (3rd Author, Under Review)
 - Jeon, Junhan, Shinsung Kang, **Hanwool Kim**, Jongmin Yeom, and Gwangsu Kim. "Spatially-adapted Diffusion Models for Solar Irradiance Prediction." *IEEE Geoscience and Remote Sensing Letters* (Under Review).
+  - Related Notes (Naver Blog, in Korean): [2nd IEEE GRSL Submission Log](https://blog.naver.com/d0njusey0/224458716138) · [Natural Science Writing Principles](https://blog.naver.com/d0njusey0/224469526810) · [Peer-Review Reflection](https://blog.naver.com/d0njusey0/224466410263)
 
 ### Master's Thesis
 - *Conditional Diffusion with CRPS Loss Post Spatially Adaptive Refinement: Application to Spatio-Temporal Image Prediction.* (2026.08)
@@ -69,7 +68,5 @@ My academic record is still modest, but because the research process itself brin
 <br><br>
 
 <p align="left">
-  <a href="../../README.md">
-    <img src="../../assets/cards/en/btn_back.svg" alt="Back to Main Dashboard (Hanwool Kim Profile)" width="260" />
-  </a>
+  <a href="../../README.md">Back to Main Profile</a>
 </p>

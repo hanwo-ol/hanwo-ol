@@ -20,9 +20,7 @@
 </div>
 
 <p align="left">
-  <a href="../README_KO.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
-  </a>
+  <a href="../README_KO.md">메인 프로필로 돌아가기</a>
 </p>
 
 ## Teaching & Mentoring (교육 및 멘토링)
@@ -46,7 +44,5 @@
 <br><br>
 
 <p align="left">
-  <a href="../README_KO.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
-  </a>
+  <a href="../README_KO.md">메인 프로필로 돌아가기</a>
 </p>

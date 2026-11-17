@@ -38,9 +38,7 @@
 </div>
 
 <p align="left">
-  <a href="../README_KO.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
-  </a>
+  <a href="../README_KO.md">메인 프로필로 돌아가기</a>
 </p>
 
 ## Research Projects (주요 연구 과제)
@@ -55,7 +53,7 @@
 #### 성과
 - 연구 결과를 바탕으로 IEEE GRSL 1저자 논문 게재 (2026.01)
 - CRPS 손실 기반 조건부 확산과 사후 공간 적응형 보정 모델 - 석사 졸업 논문 인준 (2026.01 - 2026.08)
-- 디퓨전 기반 태양광 예측 및 사후 공간 적응형 보정 모델 (Spatially-adapted Diffusion Models for Solar Irradiance Prediction) - IEEE GRSL 투고 및 심사 중 (2026.10)
+- 디퓨전 기반 태양광 예측 및 사후 공간 적응형 보정 모델 (Spatially-adapted Diffusion Models for Solar Irradiance Prediction) - IEEE GRSL 투고 및 심사 중 (2026.10) ([관련 블로그 기록](https://blog.naver.com/d0njusey0/224458716138))
 
 ---
 
@@ -98,6 +96,7 @@
 
 #### 성과
 - On Progress -- Phytomedicine 투고 및 심사 중 (Manuscript No. PHYMED-D-26-09173) (Standardized Ginkgo biloba Extract for Dizziness-Related Disability in Mild Cognitive Impairment: A Randomized Placebo-Controlled Trial)
+- 관련 도메인 스터디 (Naver Blog): [[어지럼증 0] 분류체계](https://blog.naver.com/d0njusey0/224481478047) · [[편두통] EM, CM, VM, chronic VM](https://blog.naver.com/d0njusey0/224470860382) · [[전정편두통] CGRP 연구 용어 모음](https://blog.naver.com/d0njusey0/224470816639)
 
 ---
 
@@ -112,7 +111,5 @@
 <br><br>
 
 <p align="left">
-  <a href="../README_KO.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
-  </a>
+  <a href="../README_KO.md">메인 프로필로 돌아가기</a>
 </p>

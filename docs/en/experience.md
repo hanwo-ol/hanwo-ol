@@ -26,9 +26,7 @@
 </div>
 
 <p align="left">
-  <a href="../../README.md">
-    <img src="../../assets/cards/en/btn_back.svg" alt="Back to Main Dashboard (Hanwool Kim Profile)" width="260" />
-  </a>
+  <a href="../../README.md">Back to Main Profile</a>
 </p>
 
 ## EXPERIENCE
@@ -44,10 +42,12 @@ I first came across causal inference while working in hall management and sales,
 - Biomarker discovery and deep learning modeling for vestibular disorders
 - FHIR-based MG modeling research
 
+### Related Study Notes (Naver Blog, in Korean)
+- [Vision-Based Gait Analysis & Neurodegenerative Disease Quantification (1)](https://blog.naver.com/d0njusey0/224458122296) · [(2)](https://blog.naver.com/d0njusey0/224458615601)
+- [Dizziness Classification Framework](https://blog.naver.com/d0njusey0/224481478047) | [Labyrinthine Stroke: Peripheral-Central Overlap](https://blog.naver.com/d0njusey0/224447620640) | [CFEOM / FCD Literature Note](https://blog.naver.com/d0njusey0/224434918093)
+
 <br><br>
 
 <p align="left">
-  <a href="../../README.md">
-    <img src="../../assets/cards/en/btn_back.svg" alt="Back to Main Dashboard (Hanwool Kim Profile)" width="260" />
-  </a>
+  <a href="../../README.md">Back to Main Profile</a>
 </p>

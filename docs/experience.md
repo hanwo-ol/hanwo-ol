@@ -26,9 +26,7 @@
 </div>
 
 <p align="left">
-  <a href="../README_KO.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
-  </a>
+  <a href="../README_KO.md">메인 프로필로 돌아가기</a>
 </p>
 
 ## EXPERIENCE
@@ -45,10 +43,12 @@
 - 전정기능장애 관련 바이오마커 발굴 및 딥러닝 모델 연구
 - FHIR 기반 MG 모델링 연구
 
+### 관련 블로그 노트 (Naver Blog)
+- [비전 기반 보행 분석 및 신경퇴행성 질환 정량화 연구 1](https://blog.naver.com/d0njusey0/224458122296) · [2](https://blog.naver.com/d0njusey0/224458615601)
+- [[어지럼증 0] 분류체계](https://blog.naver.com/d0njusey0/224481478047) | [[바라니학회] Labyrinthine Stroke: Peripheral-Central Overlap](https://blog.naver.com/d0njusey0/224447620640) | [[CFEOM, FCD] 개념 및 논문](https://blog.naver.com/d0njusey0/224434918093)
+
 <br><br>
 
 <p align="left">
-  <a href="../README_KO.md">
-    <img src="../assets/cards/btn_back.svg" alt="메인 대시보드로 돌아가기 (김한울 연구원 프로필)" width="260" />
-  </a>
+  <a href="../README_KO.md">메인 프로필로 돌아가기</a>
 </p>

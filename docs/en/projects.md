@@ -38,9 +38,7 @@
 </div>
 
 <p align="left">
-  <a href="../../README.md">
-    <img src="../../assets/cards/en/btn_back.svg" alt="Back to Main Dashboard (Hanwool Kim Profile)" width="260" />
-  </a>
+  <a href="../../README.md">Back to Main Profile</a>
 </p>
 
 ## Research Projects
@@ -55,7 +53,7 @@
 #### Outcomes
 - Published a 1st-author paper in *IEEE GRSL* based on the research outcomes (2026.01)
 - Master's Thesis approved: *Conditional Diffusion with CRPS Loss and Post-Spatial Adaptive Refinement Model* (2026.01 - 2026.08)
-- Submitted and under review at *IEEE GRSL*: *Spatially-adapted Diffusion Models for Solar Irradiance Prediction* (2026.10)
+- Submitted and under review at *IEEE GRSL*: *Spatially-adapted Diffusion Models for Solar Irradiance Prediction* (2026.10) ([Submission Note (Naver Blog, Korean)](https://blog.naver.com/d0njusey0/224458716138))
 
 ---
 
@@ -97,6 +95,7 @@
 
 #### Outcomes
 - On progress -- Submitted and under review at *Phytomedicine* (Manuscript No. PHYMED-D-26-09173) (*Standardized Ginkgo biloba Extract for Dizziness-Related Disability in Mild Cognitive Impairment: A Randomized Placebo-Controlled Trial*)
+- Related Domain Study Notes (Naver Blog, Korean): [Dizziness Classification Framework](https://blog.naver.com/d0njusey0/224481478047) · [Migraine Subtypes: EM, CM, VM & Chronic VM](https://blog.naver.com/d0njusey0/224470860382) · [CGRP Study Terminology](https://blog.naver.com/d0njusey0/224470816639)
 
 ---
 
@@ -111,7 +110,5 @@
 <br><br>
 
 <p align="left">
-  <a href="../../README.md">
-    <img src="../../assets/cards/en/btn_back.svg" alt="Back to Main Dashboard (Hanwool Kim Profile)" width="260" />
-  </a>
+  <a href="../../README.md">Back to Main Profile</a>
 </p>

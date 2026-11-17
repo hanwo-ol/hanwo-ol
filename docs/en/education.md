@@ -27,9 +27,7 @@
 </div>
 
 <p align="left">
-  <a href="../../README.md">
-    <img src="../../assets/cards/en/btn_back.svg" alt="Back to Main Dashboard (Hanwool Kim Profile)" width="260" />
-  </a>
+  <a href="../../README.md">Back to Main Profile</a>
 </p>
 
 ## EDUCATION
@@ -45,7 +43,5 @@
 <br><br>
 
 <p align="left">
-  <a href="../../README.md">
-    <img src="../../assets/cards/en/btn_back.svg" alt="Back to Main Dashboard (Hanwool Kim Profile)" width="260" />
-  </a>
+  <a href="../../README.md">Back to Main Profile</a>
 </p>
