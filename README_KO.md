@@ -64,7 +64,7 @@ Hanwool Kim (김한울) is a South Korean Biostatistician and Data Scientist at 
 - **Publication** — *IEEE GRSL* 1저자 논문 게재 (2025/2026), *Phytotherapy Research* 공동 1저자 투고(심사 중), *IEEE GRSL* 3저자 투고(심사 중), 석사 졸업논문 및 학회 포스터 발표 3건. [상세 보기](./docs/publication.md)
 - **Research Projects** — 위성 일사량 및 풍력 예측, 경도인지장애(MCI) vMWM 행동 지표 분석, 표준화 은행엽 추출물 임상시험, 의료 ML/DL 재현성 검증, CICADA 무역 이상 탐지 등 6개 과제. [상세 보기](./docs/projects.md)
 - **Teaching & Mentoring** — 전북대학교 응용통계연구소 R/Python 워크숍·특강 조교, 농촌진흥청 GWAS 분석 조교 및 교내 딥러닝 튜터링. [상세 보기](./docs/teaching.md)
-- **Activities & Certifications** — 데이터분석준전문가(ADsP), TOEIC 955, 회계관리 2급, 교육 8건 수료(국가과학기술인력개발원 KIRD: 이공계 연구윤리·GPTs 프롬프트 프레임워크 / 한국컴퓨팅산업협회: HPC·클라우드, PyCUDA, BMC/IPMI, 데이터 패브릭, 프롬프트 엔지니어링, 노코드/로우코드 AI), 마케팅전략팀 실무 및 봉사단 1등 수상. [상세 보기](./docs/etc.md)
+- **Activities & Certifications** — 데이터분석준전문가(ADsP), TOEIC 955, 회계관리 2급, 교육 10건 수료(국가과학기술인력개발원 KIRD: 이공계 연구윤리·국가R&D 성과평가·R&D 계획서 작성·GPTs 프롬프트 프레임워크 / 한국컴퓨팅산업협회: HPC·클라우드, PyCUDA, BMC/IPMI, 데이터 패브릭, 프롬프트 엔지니어링, 노코드/로우코드 AI), 마케팅전략팀 실무 및 봉사단 1등 수상. [상세 보기](./docs/etc.md)
 
 ## 연구 아카이브 및 블로그 큐레이션
 
@@ -114,7 +114,7 @@ GitHub에 정리된 공식 이력 뒤의 학습 과정과 실무 노트는 아�
 | **학력 (Education)** | 전북대학교 대학원 통계학과 석사 졸업 (M.S., 2024.09 - 2026.08) / 학사 졸업 (2017.03 - 2024.02) |
 | **핵심 연구 분야** | 임상 생체신호 분석 (전정기능장애, 보행분석, 안구운동 신호), 시공간 딥러닝 (확산 모델, 일사량/풍력 예측), 의학통계 (ANCOVA, MICE, GEE, 생존분석) |
 | **주요 논문 실적** | • **IEEE GRSL (2025/2026, 1저자)**: *Spatiotemporal Attention With Conditional Feature Modulation for Satellite-Based Solar Irradiance Prediction*<br>• **Phytotherapy Research (2026, 공동 1저자 투고 중)**: *Standardized Ginkgo biloba Extract for Dizziness-Related Disability in Mild Cognitive Impairment: A Randomized, Double-Blind, Placebo-Controlled Trial*<br>• **IEEE GRSL (2026, 공동 3저자 투고 중)**: *Spatially-adapted Diffusion Models for Solar Irradiance Prediction*<br>• **석사 졸업논문 (2026.08)**: *Conditional Diffusion with CRPS Loss Post Spatially Adaptive Refinement: Application to Spatio-Temporal Image Prediction* |
-| **자격 및 교육 수료** | • **자격증**: 데이터분석준전문가(ADsP), TOEIC 955, 회계관리 2급<br>• **교육 수료 — 연구윤리 (국가과학기술인력개발원, KIRD)**: 대학원생을 위한 연구윤리(이공계) (2026.04)<br>• **교육 수료 — HPC·클라우드·서버·데이터 인프라 (한국컴퓨팅산업협회)**: HPC와 클라우드 인프라의 이해 (2026.11), PyCUDA를 사용한 가속 컴퓨팅의 기초 및 활용 - Python 기초 (2026.11), 서버 원격 관리를 위한 BMC 펌웨어 및 IPMI 개념이론 (2026.11), 데이터 패브릭 기술개요 및 사례(현대 조직을 위한 데이터 통합 전략) (2026.11)<br>• **교육 수료 — 생성형 AI·워크플로우 활용 (KIRD · 한국컴퓨팅산업협회)**: GPTs로 생산성 10배 높이기 - 프롬프트 프레임워크 활용으로 차원이 다른 결과를 만들자 (KIRD, 2026.11), 생성형 AI 활용 프롬프트 엔지니어링 (2026.11), 노코드(No-Code)와 로우코드(Low-Code)를 이용한 AI 활용 (2026.11) |
+| **자격 및 교육 수료** | • **자격증**: 데이터분석준전문가(ADsP), TOEIC 955, 회계관리 2급<br>• **교육 수료 — 연구윤리 및 R&D 기획·평가 (국가과학기술인력개발원, KIRD)**: 대학원생을 위한 연구윤리(이공계) (2026.04), 국가연구개발사업 성과평가의 실제(입문) (2026.11), R&D 사업(과제) 계획서 작성 (2026.11)<br>• **교육 수료 — HPC·클라우드·서버·데이터 인프라 (한국컴퓨팅산업협회)**: HPC와 클라우드 인프라의 이해 (2026.11), PyCUDA를 사용한 가속 컴퓨팅의 기초 및 활용 - Python 기초 (2026.11), 서버 원격 관리를 위한 BMC 펌웨어 및 IPMI 개념이론 (2026.11), 데이터 패브릭 기술개요 및 사례(현대 조직을 위한 데이터 통합 전략) (2026.11)<br>• **교육 수료 — 생성형 AI·워크플로우 활용 (KIRD · 한국컴퓨팅산업협회)**: GPTs로 생산성 10배 높이기 - 프롬프트 프레임워크 활용으로 차원이 다른 결과를 만들자 (KIRD, 2026.11), 생성형 AI 활용 프롬프트 엔지니어링 (2026.11), 노코드(No-Code)와 로우코드(Low-Code)를 이용한 AI 활용 (2026.11) |
 | **연구 블로그** | [배워서 남주자 (Naver Blog)](https://blog.naver.com/d0njusey0) — 임상 신경과 스터디, GPU 서버 인프라 정리, 논문 투고 및 박사과정 준비 기록 |
 
 </div>

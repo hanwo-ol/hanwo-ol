@@ -10,6 +10,8 @@
     "TOEIC (955, 2024.03)",
     "Accounting Management Level 2 (2019.01)",
     "KIRD (Korea Institute of Human Resources Development in Science and Technology) - Research Ethics for Graduate Students (Science & Engineering) (2026.04)",
+    "KIRD - Practice of National R&D Performance Evaluation (Introductory) (2026.11)",
+    "KIRD - Writing R&D Program & Project Proposals (2026.11)",
     "KIRD - Boosting Productivity 10x with GPTs: Prompt Framework Applications (2026.11)",
     "Korea Computing Industry Association - Understanding HPC and Cloud Infrastructure (2026.11)",
     "Korea Computing Industry Association - Fundamentals and Applications of Accelerated Computing with PyCUDA - Python Basics (2026.11)",
@@ -35,8 +37,10 @@
 
 - **Certifications**: Advanced Data Analytics Semi-Professional (ADsP, 2023.09), TOEIC (955, 2024.03), Accounting Management Level 2 (2019.01)
 - **Completed Training**:
-  - **Research Ethics (KIRD)**
+  - **Research Ethics & R&D Planning / Evaluation (KIRD)**
     - 'Research Ethics for Graduate Students (Science & Engineering)' (2026.04, 2 hrs · Valid through 2029.04)
+    - 'Practice of National R&D Performance Evaluation (Introductory)' (2026.11, 1 hr)
+    - 'Writing R&D Program & Project Proposals' (2026.11, 2 hrs)
   - **HPC, Cloud/Server Infrastructure & Data Architecture (Korea Computing Industry Association)**
     - 'Understanding HPC and Cloud Infrastructure' (2026.11)
     - 'Fundamentals and Applications of Accelerated Computing with PyCUDA - Python Basics' (2026.11)
